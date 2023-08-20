@@ -10,6 +10,6 @@ public class UserAPI {
 
     @GetMapping("/get")
     public String getUser(){
-        return "Shubham Hirpara";
+        return "Aish Hirpara";
     }
 }
